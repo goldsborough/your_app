@@ -32,7 +32,7 @@ Tutorial repository for `"Creating and Distributing a Python Project" <http://th
 `Documentation <your_app.rtfd.org>`_
 ====================================
 
-Documentation can be found here: `your_app.rtfd.org <your_app.rtfd.org>`_.
+Documentation can be found `here <http://your_app.rtfd.org>`_.
 
 `License <your_app.mit-license.org>`_
 =====================================
