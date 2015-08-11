@@ -23,7 +23,8 @@ requirements = [
 ]
 
 test_requirements = [
-	"unittest2==1.1.0"
+	"unittest2==1.1.0",
+	"python-coveralls==2.5.0"
 ]
 
 setup(
