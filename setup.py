@@ -37,6 +37,8 @@ setup(
 	author='You',
 	author_email='your@email',
 
+	url="https://github.com/goldsborough/your_app",
+
 	license='MIT',
 
 	classifiers=[
