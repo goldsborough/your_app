@@ -23,6 +23,10 @@ your_app
 .. image:: https://travis-ci.org/goldsborough/your_app.svg
     :target: https://travis-ci.org/goldsborough/your_app
 
+\
+
+\
+
 Tutorial repository for `"Creating and Distributing a Python Project" <http://thecodeinn.blogspot.com/2015/08/python-project.html>`_.
 
 `Documentation <your_app.rtfd.org>`_
