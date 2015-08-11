@@ -1,6 +1,6 @@
-========
+********
 your_app
-========
+********
 
 .. image:: https://badge.fury.io/py/your_app.svg
     :target: http://badge.fury.io/py/your_app
@@ -11,8 +11,17 @@ your_app
 .. image:: http://img.shields.io/gratipay/goldsborough.svg
 	:target: https://gratipay.com/~goldsborough/
 
+.. image:: https://landscape.io/github/goldsborough/your_app/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/goldsborough/your_app/master
+
 .. image:: https://codeclimate.com/github/goldsborough/your_app/badges/gpa.svg
    :target: https://codeclimate.com/github/goldsborough/your_app
+
+.. image:: https://coveralls.io/repos/goldsborough/your_app/badge.svg?branch=master&service=github
+  :target: https://coveralls.io/github/goldsborough/your_app?branch=master
+
+.. image:: https://travis-ci.org/goldsborough/your_app.svg
+    :target: https://travis-ci.org/goldsborough/your_app
 
 Tutorial repository for `"Creating and Distributing a Python Project" <http://thecodeinn.blogspot.com/2015/08/python-project.html>`_.
 
