@@ -10,7 +10,7 @@ Tutorial repository for `"Creating and Distributing a Python Project" <http://th
 Documentation can be found here: your_app.rtfd.org
 
 `License <your_app.mit-license.org>`_
-====================================
+=====================================
 
 This project is licensed under the MIT-License.
 
